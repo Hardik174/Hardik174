@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<center><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></center>
 <br><br>
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
