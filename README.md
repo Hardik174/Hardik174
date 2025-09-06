@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, NLP, LLMs**
 
-- 👯 I’m looking to collaborate on **project name**
-
 - ⚡ Fun fact **I think I can lift up anyone's mood.**
 
 <h3 align="left">Connect with me:</h3>
