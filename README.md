@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>Linkedin: </b><a href = "https://www.linkedin.com/in/hardik-rokde-844a6528a/">
+  <b>Linkedin: <a href = "https://www.linkedin.com/in/hardik-rokde-844a6528a/"></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
